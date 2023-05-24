@@ -1,8 +1,8 @@
 # CodeIgniter-Web-Publish
  
-•Website to publish storyline articulate files.
+•Website project to publish storyline articulate files.
 
-•Developed to track, record and publish the answer data from articulate storyline files.
+•Developed to track, record and publish the answer data from articulate storyline files with many other functions.
 
 •Developed with CodeIgniter Framework.
 
